@@ -1,0 +1,2 @@
+# b
+Go module B
