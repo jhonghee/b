@@ -8,5 +8,5 @@ import (
 
 // Version returns the tagged version of the module
 func Version() string {
-	return fmt.Sprint("B v1.1", "->", d.Version())
+	return fmt.Sprint("B v1.2", "->", d.Version())
 }
